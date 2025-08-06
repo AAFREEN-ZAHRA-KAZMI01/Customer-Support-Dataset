@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-08-05T15:55:15.566748",
+    "user": "Why is my refund amount different?",
+    "assistant": "Sorry, I couldn't process your request."
+  },
+  {
+    "timestamp": "2025-08-05T16:01:53.867480",
+    "user": "Why is my refund amount different?",
+    "assistant": "Sorry, I encountered an error: 1 validation error for RetrievalQA\nretriever\n  Field required [type=missing, input_value={'combine_documents_chain...ariable_name='context')}, input_type=dict]\n    For further information visit https://errors.pydantic.dev/2.11/v/missing"
+  }
+]

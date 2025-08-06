@@ -1,0 +1,12 @@
+streamlit==1.28.0
+openai==0.28.0
+langchain==0.0.340
+qdrant-client==1.6.4
+python-dotenv==1.0.0
+tiktoken==0.5.1
+pandas==2.0.3
+faker==19.3.0
+langchain-community
+langchain-core
+langchain_openai
+redis
